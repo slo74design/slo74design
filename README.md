@@ -1,4 +1,4 @@
-### Hello 👋 my name is Salvatore!
+### Hello 👋 I'm Salvatore, welcome to my Git!
 
 <!--
 **slo74design/slo74design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
