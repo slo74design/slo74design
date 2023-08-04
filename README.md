@@ -1,6 +1,13 @@
-### Hello 👋 I'm Salvatore, welcome to my Git!
-![Tux, the Linux mascot](/assets/images/tux.png)
-
+<p align="center" width="100%">
+    <img width="100" src="/logo.png"> 
+</p>
+<div style="display:flex;" align="center" width="100%">
+    <h1>Hello 👋 I'm Salvatore, welcome to my Git!</h1>
+  <p>I'm a mid Fullstack developer. I’m currently focused on the web development with React, NextJs, Shopify and Wordpress.<br/>One of my representative project is the gamification platform developed on 2021 using React, Prisma & mySQL.</p>
+</div>
+<br>
+<br>
+- 🔭 I’m currently working on my own website using NextJs 13, Wordpress, graphQL and Apollo. The URL is [remotesquid.com](https://remotesquid.com).
 
 <!--
 **slo74design/slo74design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
