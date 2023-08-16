@@ -3,7 +3,7 @@
 </p>
 <div style="display:flex;" align="center" width="100%">
     <h1>Hello 👋 I'm Salvatore, welcome to my Git!</h1>
-  <p>I'm a mid Fullstack developer. I’m currently focused on the web development with React, NextJs, Shopify and Wordpress.<br/>One of my representative project is the gamification platform developed on 2021 using React, Prisma & mySQL.</p>
+  <p>I'm a mid Fullstack developer. I’m currently focused on the web development with React, NextJs, Shopify and Wordpress.<br/>One of my representative project is the gamification platform developed on 2021 using React, Prisma, mySQL and Laravel 8 as backend.</p>
 </div>
 <br>
 <br>
